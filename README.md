@@ -7,6 +7,7 @@
 | [0355-design-twitter](https://github.com/Satyam93186/leetcode-solutions/tree/master/0355-design-twitter) |
 | [0389-find-the-difference](https://github.com/Satyam93186/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/Satyam93186/leetcode-solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [3548-equal-sum-grid-partition-ii](https://github.com/Satyam93186/leetcode-solutions/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -31,12 +32,14 @@
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Satyam93186/leetcode-solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1929-concatenation-of-array](https://github.com/Satyam93186/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Satyam93186/leetcode-solutions/tree/master/3546-equal-sum-grid-partition-i) |
+| [3548-equal-sum-grid-partition-ii](https://github.com/Satyam93186/leetcode-solutions/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Satyam93186/leetcode-solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Satyam93186/leetcode-solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Satyam93186/leetcode-solutions/tree/master/3546-equal-sum-grid-partition-i) |
+| [3548-equal-sum-grid-partition-ii](https://github.com/Satyam93186/leetcode-solutions/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -78,10 +81,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3546-equal-sum-grid-partition-i](https://github.com/Satyam93186/leetcode-solutions/tree/master/3546-equal-sum-grid-partition-i) |
+| [3548-equal-sum-grid-partition-ii](https://github.com/Satyam93186/leetcode-solutions/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3546-equal-sum-grid-partition-i](https://github.com/Satyam93186/leetcode-solutions/tree/master/3546-equal-sum-grid-partition-i) |
+| [3548-equal-sum-grid-partition-ii](https://github.com/Satyam93186/leetcode-solutions/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
