@@ -18,6 +18,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0371-sum-of-two-integers](https://github.com/Satyam93186/leetcode-solutions/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0389-find-the-difference](https://github.com/Satyam93186/leetcode-solutions/tree/master/0389-find-the-difference) |
 ## Sorting
 | Problem Name | Difficulty |
@@ -82,6 +83,7 @@
 | ------- | ------- |
 | [0357-count-numbers-with-unique-digits](https://github.com/Satyam93186/leetcode-solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0367-valid-perfect-square](https://github.com/Satyam93186/leetcode-solutions/tree/master/0367-valid-perfect-square) |
+| [0371-sum-of-two-integers](https://github.com/Satyam93186/leetcode-solutions/tree/main/0371-sum-of-two-integers/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Satyam93186/leetcode-solutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
