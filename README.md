@@ -84,6 +84,7 @@
 | [0357-count-numbers-with-unique-digits](https://github.com/Satyam93186/leetcode-solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0367-valid-perfect-square](https://github.com/Satyam93186/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/Satyam93186/leetcode-solutions/tree/main/0371-sum-of-two-integers/) | Medium |
+| [0372-super-pow](https://github.com/Satyam93186/leetcode-solutions/tree/main/0372-super-pow/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Satyam93186/leetcode-solutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -115,4 +116,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2573-find-the-string-with-lcp](https://github.com/Satyam93186/leetcode-solutions/tree/main/2573-find-the-string-with-lcp/) | Hard |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0372-super-pow](https://github.com/Satyam93186/leetcode-solutions/tree/main/0372-super-pow/) | Medium |
 <!---LeetCode Topics End-->
