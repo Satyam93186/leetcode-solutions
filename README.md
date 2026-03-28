@@ -14,6 +14,7 @@
 | [0389-find-the-difference](https://github.com/Satyam93186/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/Satyam93186/leetcode-solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Satyam93186/leetcode-solutions/tree/main/1653-minimum-deletions-to-make-string-balanced/) | Medium |
+| [2573-find-the-string-with-lcp](https://github.com/Satyam93186/leetcode-solutions/tree/main/2573-find-the-string-with-lcp/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -32,6 +33,7 @@
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Satyam93186/leetcode-solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Satyam93186/leetcode-solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1929-concatenation-of-array](https://github.com/Satyam93186/leetcode-solutions/tree/master/1929-concatenation-of-array) |
+| [2573-find-the-string-with-lcp](https://github.com/Satyam93186/leetcode-solutions/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Satyam93186/leetcode-solutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/Satyam93186/leetcode-solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Satyam93186/leetcode-solutions/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
@@ -40,6 +42,7 @@
 | ------- | ------- |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Satyam93186/leetcode-solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Satyam93186/leetcode-solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2573-find-the-string-with-lcp](https://github.com/Satyam93186/leetcode-solutions/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Satyam93186/leetcode-solutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/Satyam93186/leetcode-solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Satyam93186/leetcode-solutions/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
@@ -56,6 +59,7 @@
 | [0377-combination-sum-iv](https://github.com/Satyam93186/leetcode-solutions/tree/main/0377-combination-sum-iv/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Satyam93186/leetcode-solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Satyam93186/leetcode-solutions/tree/main/1653-minimum-deletions-to-make-string-balanced/) | Medium |
+| [2573-find-the-string-with-lcp](https://github.com/Satyam93186/leetcode-solutions/tree/main/2573-find-the-string-with-lcp/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -101,4 +105,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Satyam93186/leetcode-solutions/tree/main/1653-minimum-deletions-to-make-string-balanced/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2573-find-the-string-with-lcp](https://github.com/Satyam93186/leetcode-solutions/tree/main/2573-find-the-string-with-lcp/) | Hard |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2573-find-the-string-with-lcp](https://github.com/Satyam93186/leetcode-solutions/tree/main/2573-find-the-string-with-lcp/) | Hard |
 <!---LeetCode Topics End-->
