@@ -34,6 +34,7 @@
 | [2751-robot-collisions](https://github.com/Satyam93186/leetcode-solutions/tree/main/2751-robot-collisions/) | Hard |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Satyam93186/leetcode-solutions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3634-minimum-removals-to-balance-array](https://github.com/Satyam93186/leetcode-solutions/tree/main/3634-minimum-removals-to-balance-array/) | Medium |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/Satyam93186/leetcode-solutions/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -52,6 +53,7 @@
 | [3546-equal-sum-grid-partition-i](https://github.com/Satyam93186/leetcode-solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Satyam93186/leetcode-solutions/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3634-minimum-removals-to-balance-array](https://github.com/Satyam93186/leetcode-solutions/tree/main/3634-minimum-removals-to-balance-array/) | Medium |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/Satyam93186/leetcode-solutions/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -69,6 +71,7 @@
 | [0367-valid-perfect-square](https://github.com/Satyam93186/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Satyam93186/leetcode-solutions/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [3634-minimum-removals-to-balance-array](https://github.com/Satyam93186/leetcode-solutions/tree/main/3634-minimum-removals-to-balance-array/) | Medium |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/Satyam93186/leetcode-solutions/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -79,6 +82,7 @@
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Satyam93186/leetcode-solutions/tree/main/1653-minimum-deletions-to-make-string-balanced/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/Satyam93186/leetcode-solutions/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Satyam93186/leetcode-solutions/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/Satyam93186/leetcode-solutions/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
