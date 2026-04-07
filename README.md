@@ -93,6 +93,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1929-concatenation-of-array](https://github.com/Satyam93186/leetcode-solutions/tree/master/1929-concatenation-of-array) |
+| [2069-walking-robot-simulation-ii](https://github.com/Satyam93186/leetcode-solutions/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Satyam93186/leetcode-solutions/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2751-robot-collisions](https://github.com/Satyam93186/leetcode-solutions/tree/main/2751-robot-collisions/) | Hard |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Satyam93186/leetcode-solutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
@@ -106,6 +107,7 @@
 | ------- | ------- |
 | [0355-design-twitter](https://github.com/Satyam93186/leetcode-solutions/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Satyam93186/leetcode-solutions/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+| [2069-walking-robot-simulation-ii](https://github.com/Satyam93186/leetcode-solutions/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
