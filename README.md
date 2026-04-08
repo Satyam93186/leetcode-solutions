@@ -58,6 +58,7 @@
 | [3548-equal-sum-grid-partition-ii](https://github.com/Satyam93186/leetcode-solutions/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3634-minimum-removals-to-balance-array](https://github.com/Satyam93186/leetcode-solutions/tree/main/3634-minimum-removals-to-balance-array/) | Medium |
 | [3640-trionic-array-ii](https://github.com/Satyam93186/leetcode-solutions/tree/main/3640-trionic-array-ii/) | Hard |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Satyam93186/leetcode-solutions/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Satyam93186/leetcode-solutions/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
@@ -98,6 +99,7 @@
 | [2751-robot-collisions](https://github.com/Satyam93186/leetcode-solutions/tree/main/2751-robot-collisions/) | Hard |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Satyam93186/leetcode-solutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3379-transformed-array](https://github.com/Satyam93186/leetcode-solutions/tree/main/3379-transformed-array/) | Easy |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Satyam93186/leetcode-solutions/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -161,6 +163,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0372-super-pow](https://github.com/Satyam93186/leetcode-solutions/tree/main/0372-super-pow/) | Medium |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Satyam93186/leetcode-solutions/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
