@@ -52,6 +52,7 @@
 | [1470-shuffle-the-array](https://github.com/Satyam93186/leetcode-solutions/tree/master/1470-shuffle-the-array) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Satyam93186/leetcode-solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Satyam93186/leetcode-solutions/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Satyam93186/leetcode-solutions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Satyam93186/leetcode-solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1929-concatenation-of-array](https://github.com/Satyam93186/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2463-minimum-total-distance-traveled](https://github.com/Satyam93186/leetcode-solutions/tree/main/2463-minimum-total-distance-traveled/) | Hard |
@@ -84,6 +85,7 @@
 | [0354-russian-doll-envelopes](https://github.com/Satyam93186/leetcode-solutions/tree/master/0354-russian-doll-envelopes) |
 | [0367-valid-perfect-square](https://github.com/Satyam93186/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Satyam93186/leetcode-solutions/tree/main/0374-guess-number-higher-or-lower/) | Easy |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Satyam93186/leetcode-solutions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/Satyam93186/leetcode-solutions/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3634-minimum-removals-to-balance-array](https://github.com/Satyam93186/leetcode-solutions/tree/main/3634-minimum-removals-to-balance-array/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Satyam93186/leetcode-solutions/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
@@ -193,4 +195,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0385-mini-parser](https://github.com/Satyam93186/leetcode-solutions/tree/main/0385-mini-parser/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Satyam93186/leetcode-solutions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 <!---LeetCode Topics End-->
