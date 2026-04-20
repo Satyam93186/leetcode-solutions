@@ -95,6 +95,7 @@
 | ------- | ------- |
 | [0354-russian-doll-envelopes](https://github.com/Satyam93186/leetcode-solutions/tree/master/0354-russian-doll-envelopes) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Satyam93186/leetcode-solutions/tree/master/0357-count-numbers-with-unique-digits) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/Satyam93186/leetcode-solutions/tree/main/0375-guess-number-higher-or-lower-ii/) | Medium |
 | [0377-combination-sum-iv](https://github.com/Satyam93186/leetcode-solutions/tree/main/0377-combination-sum-iv/) | Medium |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Satyam93186/leetcode-solutions/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Satyam93186/leetcode-solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -136,6 +137,7 @@
 | [0367-valid-perfect-square](https://github.com/Satyam93186/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/Satyam93186/leetcode-solutions/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0372-super-pow](https://github.com/Satyam93186/leetcode-solutions/tree/main/0372-super-pow/) | Medium |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/Satyam93186/leetcode-solutions/tree/main/0375-guess-number-higher-or-lower-ii/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/Satyam93186/leetcode-solutions/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Satyam93186/leetcode-solutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Satyam93186/leetcode-solutions/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
@@ -201,4 +203,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Satyam93186/leetcode-solutions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/Satyam93186/leetcode-solutions/tree/main/0375-guess-number-higher-or-lower-ii/) | Medium |
 <!---LeetCode Topics End-->
