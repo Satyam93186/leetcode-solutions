@@ -55,6 +55,7 @@
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Satyam93186/leetcode-solutions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Satyam93186/leetcode-solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1929-concatenation-of-array](https://github.com/Satyam93186/leetcode-solutions/tree/master/1929-concatenation-of-array) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Satyam93186/leetcode-solutions/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2463-minimum-total-distance-traveled](https://github.com/Satyam93186/leetcode-solutions/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2573-find-the-string-with-lcp](https://github.com/Satyam93186/leetcode-solutions/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2751-robot-collisions](https://github.com/Satyam93186/leetcode-solutions/tree/main/2751-robot-collisions/) | Hard |
@@ -168,6 +169,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0409-longest-palindrome](https://github.com/Satyam93186/leetcode-solutions/tree/main/0409-longest-palindrome/) | Easy |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Satyam93186/leetcode-solutions/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/Satyam93186/leetcode-solutions/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Satyam93186/leetcode-solutions/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 ## Union-Find
