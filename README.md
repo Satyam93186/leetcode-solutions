@@ -40,6 +40,7 @@
 | ------- | ------- |
 | [0354-russian-doll-envelopes](https://github.com/Satyam93186/leetcode-solutions/tree/master/0354-russian-doll-envelopes) |
 | [0389-find-the-difference](https://github.com/Satyam93186/leetcode-solutions/tree/master/0389-find-the-difference) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Satyam93186/leetcode-solutions/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/Satyam93186/leetcode-solutions/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2751-robot-collisions](https://github.com/Satyam93186/leetcode-solutions/tree/main/2751-robot-collisions/) | Hard |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Satyam93186/leetcode-solutions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
@@ -60,6 +61,7 @@
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Satyam93186/leetcode-solutions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Satyam93186/leetcode-solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1929-concatenation-of-array](https://github.com/Satyam93186/leetcode-solutions/tree/master/1929-concatenation-of-array) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Satyam93186/leetcode-solutions/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Satyam93186/leetcode-solutions/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Satyam93186/leetcode-solutions/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/Satyam93186/leetcode-solutions/tree/main/2463-minimum-total-distance-traveled/) | Hard |
@@ -83,6 +85,7 @@
 | ------- | ------- |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Satyam93186/leetcode-solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Satyam93186/leetcode-solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Satyam93186/leetcode-solutions/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/Satyam93186/leetcode-solutions/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Satyam93186/leetcode-solutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Satyam93186/leetcode-solutions/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
@@ -148,6 +151,7 @@
 | [0372-super-pow](https://github.com/Satyam93186/leetcode-solutions/tree/main/0372-super-pow/) | Medium |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Satyam93186/leetcode-solutions/tree/main/0375-guess-number-higher-or-lower-ii/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/Satyam93186/leetcode-solutions/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Satyam93186/leetcode-solutions/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Satyam93186/leetcode-solutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Satyam93186/leetcode-solutions/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Satyam93186/leetcode-solutions/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
