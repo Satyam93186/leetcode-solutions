@@ -54,6 +54,7 @@
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Satyam93186/leetcode-solutions/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0377-combination-sum-iv](https://github.com/Satyam93186/leetcode-solutions/tree/main/0377-combination-sum-iv/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/Satyam93186/leetcode-solutions/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+| [0396-rotate-function](https://github.com/Satyam93186/leetcode-solutions/tree/main/0396-rotate-function/) | Medium |
 | [1470-shuffle-the-array](https://github.com/Satyam93186/leetcode-solutions/tree/master/1470-shuffle-the-array) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Satyam93186/leetcode-solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Satyam93186/leetcode-solutions/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
@@ -114,6 +115,7 @@
 | [0357-count-numbers-with-unique-digits](https://github.com/Satyam93186/leetcode-solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Satyam93186/leetcode-solutions/tree/main/0375-guess-number-higher-or-lower-ii/) | Medium |
 | [0377-combination-sum-iv](https://github.com/Satyam93186/leetcode-solutions/tree/main/0377-combination-sum-iv/) | Medium |
+| [0396-rotate-function](https://github.com/Satyam93186/leetcode-solutions/tree/main/0396-rotate-function/) | Medium |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Satyam93186/leetcode-solutions/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Satyam93186/leetcode-solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Satyam93186/leetcode-solutions/tree/main/1653-minimum-deletions-to-make-string-balanced/) | Medium |
@@ -158,6 +160,7 @@
 | [0372-super-pow](https://github.com/Satyam93186/leetcode-solutions/tree/main/0372-super-pow/) | Medium |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Satyam93186/leetcode-solutions/tree/main/0375-guess-number-higher-or-lower-ii/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/Satyam93186/leetcode-solutions/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+| [0396-rotate-function](https://github.com/Satyam93186/leetcode-solutions/tree/main/0396-rotate-function/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Satyam93186/leetcode-solutions/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Satyam93186/leetcode-solutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Satyam93186/leetcode-solutions/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
