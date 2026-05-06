@@ -61,6 +61,7 @@
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Satyam93186/leetcode-solutions/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Satyam93186/leetcode-solutions/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Satyam93186/leetcode-solutions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [1861-rotating-the-box](https://github.com/Satyam93186/leetcode-solutions/tree/main/1861-rotating-the-box/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Satyam93186/leetcode-solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1929-concatenation-of-array](https://github.com/Satyam93186/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Satyam93186/leetcode-solutions/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
@@ -90,6 +91,7 @@
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Satyam93186/leetcode-solutions/tree/main/0048-rotate-image/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Satyam93186/leetcode-solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1861-rotating-the-box](https://github.com/Satyam93186/leetcode-solutions/tree/main/1861-rotating-the-box/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Satyam93186/leetcode-solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Satyam93186/leetcode-solutions/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/Satyam93186/leetcode-solutions/tree/main/2573-find-the-string-with-lcp/) | Hard |
@@ -238,6 +240,7 @@
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/Satyam93186/leetcode-solutions/tree/main/0061-rotate-list/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Satyam93186/leetcode-solutions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [1861-rotating-the-box](https://github.com/Satyam93186/leetcode-solutions/tree/main/1861-rotating-the-box/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
