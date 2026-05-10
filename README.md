@@ -72,6 +72,7 @@
 | [2573-find-the-string-with-lcp](https://github.com/Satyam93186/leetcode-solutions/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2615-sum-of-distances](https://github.com/Satyam93186/leetcode-solutions/tree/main/2615-sum-of-distances/) | Medium |
 | [2751-robot-collisions](https://github.com/Satyam93186/leetcode-solutions/tree/main/2751-robot-collisions/) | Hard |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Satyam93186/leetcode-solutions/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Satyam93186/leetcode-solutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3225-maximum-score-from-grid-operations](https://github.com/Satyam93186/leetcode-solutions/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3379-transformed-array](https://github.com/Satyam93186/leetcode-solutions/tree/main/3379-transformed-array/) | Easy |
@@ -129,6 +130,7 @@
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Satyam93186/leetcode-solutions/tree/main/1653-minimum-deletions-to-make-string-balanced/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/Satyam93186/leetcode-solutions/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2573-find-the-string-with-lcp](https://github.com/Satyam93186/leetcode-solutions/tree/main/2573-find-the-string-with-lcp/) | Hard |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Satyam93186/leetcode-solutions/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/Satyam93186/leetcode-solutions/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Satyam93186/leetcode-solutions/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3640-trionic-array-ii](https://github.com/Satyam93186/leetcode-solutions/tree/main/3640-trionic-array-ii/) | Hard |
