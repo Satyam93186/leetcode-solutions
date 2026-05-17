@@ -61,6 +61,7 @@
 | [0377-combination-sum-iv](https://github.com/Satyam93186/leetcode-solutions/tree/main/0377-combination-sum-iv/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/Satyam93186/leetcode-solutions/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0396-rotate-function](https://github.com/Satyam93186/leetcode-solutions/tree/main/0396-rotate-function/) | Medium |
+| [1306-jump-game-iii](https://github.com/Satyam93186/leetcode-solutions/tree/main/1306-jump-game-iii/) | Medium |
 | [1470-shuffle-the-array](https://github.com/Satyam93186/leetcode-solutions/tree/master/1470-shuffle-the-array) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Satyam93186/leetcode-solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Satyam93186/leetcode-solutions/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
@@ -253,6 +254,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0385-mini-parser](https://github.com/Satyam93186/leetcode-solutions/tree/main/0385-mini-parser/) | Medium |
+| [1306-jump-game-iii](https://github.com/Satyam93186/leetcode-solutions/tree/main/1306-jump-game-iii/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Satyam93186/leetcode-solutions/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -276,4 +278,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Satyam93186/leetcode-solutions/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1306-jump-game-iii](https://github.com/Satyam93186/leetcode-solutions/tree/main/1306-jump-game-iii/) | Medium |
 <!---LeetCode Topics End-->
