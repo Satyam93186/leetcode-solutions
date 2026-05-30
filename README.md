@@ -91,6 +91,7 @@
 | [2784-check-if-array-is-good](https://github.com/Satyam93186/leetcode-solutions/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Satyam93186/leetcode-solutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Satyam93186/leetcode-solutions/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3161-block-placement-queries](https://github.com/Satyam93186/leetcode-solutions/tree/main/3161-block-placement-queries/) | Hard |
 | [3225-maximum-score-from-grid-operations](https://github.com/Satyam93186/leetcode-solutions/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3379-transformed-array](https://github.com/Satyam93186/leetcode-solutions/tree/main/3379-transformed-array/) | Easy |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Satyam93186/leetcode-solutions/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
@@ -132,6 +133,7 @@
 | [0374-guess-number-higher-or-lower](https://github.com/Satyam93186/leetcode-solutions/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Satyam93186/leetcode-solutions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2540-minimum-common-value](https://github.com/Satyam93186/leetcode-solutions/tree/main/2540-minimum-common-value/) | Easy |
+| [3161-block-placement-queries](https://github.com/Satyam93186/leetcode-solutions/tree/main/3161-block-placement-queries/) | Hard |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Satyam93186/leetcode-solutions/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/Satyam93186/leetcode-solutions/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3634-minimum-removals-to-balance-array](https://github.com/Satyam93186/leetcode-solutions/tree/main/3634-minimum-removals-to-balance-array/) | Medium |
@@ -293,4 +295,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1306-jump-game-iii](https://github.com/Satyam93186/leetcode-solutions/tree/main/1306-jump-game-iii/) | Medium |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3161-block-placement-queries](https://github.com/Satyam93186/leetcode-solutions/tree/main/3161-block-placement-queries/) | Hard |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3161-block-placement-queries](https://github.com/Satyam93186/leetcode-solutions/tree/main/3161-block-placement-queries/) | Hard |
 <!---LeetCode Topics End-->
