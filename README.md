@@ -55,6 +55,7 @@
 | [2784-check-if-array-is-good](https://github.com/Satyam93186/leetcode-solutions/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Satyam93186/leetcode-solutions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Satyam93186/leetcode-solutions/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Satyam93186/leetcode-solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3634-minimum-removals-to-balance-array](https://github.com/Satyam93186/leetcode-solutions/tree/main/3634-minimum-removals-to-balance-array/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Satyam93186/leetcode-solutions/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## Array
@@ -103,6 +104,7 @@
 | [3488-closest-equal-element-queries](https://github.com/Satyam93186/leetcode-solutions/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/Satyam93186/leetcode-solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Satyam93186/leetcode-solutions/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Satyam93186/leetcode-solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3634-minimum-removals-to-balance-array](https://github.com/Satyam93186/leetcode-solutions/tree/main/3634-minimum-removals-to-balance-array/) | Medium |
 | [3637-trionic-array-i](https://github.com/Satyam93186/leetcode-solutions/tree/main/3637-trionic-array-i/) | Easy |
 | [3640-trionic-array-ii](https://github.com/Satyam93186/leetcode-solutions/tree/main/3640-trionic-array-ii/) | Hard |
@@ -140,6 +142,7 @@
 | [3161-block-placement-queries](https://github.com/Satyam93186/leetcode-solutions/tree/main/3161-block-placement-queries/) | Hard |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Satyam93186/leetcode-solutions/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/Satyam93186/leetcode-solutions/tree/main/3488-closest-equal-element-queries/) | Medium |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Satyam93186/leetcode-solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3634-minimum-removals-to-balance-array](https://github.com/Satyam93186/leetcode-solutions/tree/main/3634-minimum-removals-to-balance-array/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Satyam93186/leetcode-solutions/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## Dynamic Programming
@@ -245,6 +248,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Satyam93186/leetcode-solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/Satyam93186/leetcode-solutions/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Satyam93186/leetcode-solutions/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Satyam93186/leetcode-solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -280,6 +284,7 @@
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Satyam93186/leetcode-solutions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/Satyam93186/leetcode-solutions/tree/main/1861-rotating-the-box/) | Medium |
 | [2540-minimum-common-value](https://github.com/Satyam93186/leetcode-solutions/tree/main/2540-minimum-common-value/) | Easy |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Satyam93186/leetcode-solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
