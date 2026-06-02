@@ -15,6 +15,7 @@
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Satyam93186/leetcode-solutions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/Satyam93186/leetcode-solutions/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Satyam93186/leetcode-solutions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Satyam93186/leetcode-solutions/tree/main/3013-divide-an-array-into-subarrays-with-minimum-cost-ii/) | Hard |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Satyam93186/leetcode-solutions/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/Satyam93186/leetcode-solutions/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Satyam93186/leetcode-solutions/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
@@ -95,6 +96,7 @@
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Satyam93186/leetcode-solutions/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/Satyam93186/leetcode-solutions/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Satyam93186/leetcode-solutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Satyam93186/leetcode-solutions/tree/main/3013-divide-an-array-into-subarrays-with-minimum-cost-ii/) | Hard |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Satyam93186/leetcode-solutions/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3161-block-placement-queries](https://github.com/Satyam93186/leetcode-solutions/tree/main/3161-block-placement-queries/) | Hard |
 | [3225-maximum-score-from-grid-operations](https://github.com/Satyam93186/leetcode-solutions/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
@@ -194,6 +196,7 @@
 | ------- | ------- |
 | [0355-design-twitter](https://github.com/Satyam93186/leetcode-solutions/tree/master/0355-design-twitter) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Satyam93186/leetcode-solutions/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Satyam93186/leetcode-solutions/tree/main/3013-divide-an-array-into-subarrays-with-minimum-cost-ii/) | Hard |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -232,6 +235,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/Satyam93186/leetcode-solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Satyam93186/leetcode-solutions/tree/main/3013-divide-an-array-into-subarrays-with-minimum-cost-ii/) | Hard |
 | [3634-minimum-removals-to-balance-array](https://github.com/Satyam93186/leetcode-solutions/tree/main/3634-minimum-removals-to-balance-array/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
