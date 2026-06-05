@@ -170,6 +170,7 @@
 | [3660-jump-game-ix](https://github.com/Satyam93186/leetcode-solutions/tree/main/3660-jump-game-ix/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Satyam93186/leetcode-solutions/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Satyam93186/leetcode-solutions/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Satyam93186/leetcode-solutions/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -214,6 +215,7 @@
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Satyam93186/leetcode-solutions/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Satyam93186/leetcode-solutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Satyam93186/leetcode-solutions/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Satyam93186/leetcode-solutions/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Satyam93186/leetcode-solutions/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/Satyam93186/leetcode-solutions/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Backtracking
