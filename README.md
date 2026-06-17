@@ -37,6 +37,7 @@
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Satyam93186/leetcode-solutions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Satyam93186/leetcode-solutions/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Satyam93186/leetcode-solutions/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
+| [3614-process-string-with-special-operations-ii](https://github.com/Satyam93186/leetcode-solutions/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3838-weighted-word-mapping](https://github.com/Satyam93186/leetcode-solutions/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -187,6 +188,7 @@
 | [2751-robot-collisions](https://github.com/Satyam93186/leetcode-solutions/tree/main/2751-robot-collisions/) | Hard |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Satyam93186/leetcode-solutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3379-transformed-array](https://github.com/Satyam93186/leetcode-solutions/tree/main/3379-transformed-array/) | Easy |
+| [3614-process-string-with-special-operations-ii](https://github.com/Satyam93186/leetcode-solutions/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Satyam93186/leetcode-solutions/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Satyam93186/leetcode-solutions/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Linked List
