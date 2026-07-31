@@ -69,6 +69,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Satyam93186/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
 | [0048-rotate-image](https://github.com/Satyam93186/leetcode-solutions/tree/main/0048-rotate-image/) | Medium |
+| [0084-largest-rectangle-in-histogram](https://github.com/Satyam93186/leetcode-solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Satyam93186/leetcode-solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Satyam93186/leetcode-solutions/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0354-russian-doll-envelopes](https://github.com/Satyam93186/leetcode-solutions/tree/master/0354-russian-doll-envelopes) |
@@ -266,6 +267,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Satyam93186/leetcode-solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0385-mini-parser](https://github.com/Satyam93186/leetcode-solutions/tree/main/0385-mini-parser/) | Medium |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Satyam93186/leetcode-solutions/tree/main/1653-minimum-deletions-to-make-string-balanced/) | Medium |
 | [2751-robot-collisions](https://github.com/Satyam93186/leetcode-solutions/tree/main/2751-robot-collisions/) | Hard |
@@ -354,4 +356,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Satyam93186/leetcode-solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Satyam93186/leetcode-solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 <!---LeetCode Topics End-->
