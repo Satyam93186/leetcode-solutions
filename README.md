@@ -76,6 +76,7 @@
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Satyam93186/leetcode-solutions/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0377-combination-sum-iv](https://github.com/Satyam93186/leetcode-solutions/tree/main/0377-combination-sum-iv/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/Satyam93186/leetcode-solutions/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+| [0384-shuffle-an-array](https://github.com/Satyam93186/leetcode-solutions/tree/main/0384-shuffle-an-array/) | Medium |
 | [0396-rotate-function](https://github.com/Satyam93186/leetcode-solutions/tree/main/0396-rotate-function/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Satyam93186/leetcode-solutions/tree/main/1260-shift-2d-grid/) | Easy |
 | [1306-jump-game-iii](https://github.com/Satyam93186/leetcode-solutions/tree/main/1306-jump-game-iii/) | Medium |
@@ -212,6 +213,7 @@
 | ------- | ------- |
 | [0355-design-twitter](https://github.com/Satyam93186/leetcode-solutions/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Satyam93186/leetcode-solutions/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+| [0384-shuffle-an-array](https://github.com/Satyam93186/leetcode-solutions/tree/main/0384-shuffle-an-array/) | Medium |
 | [2069-walking-robot-simulation-ii](https://github.com/Satyam93186/leetcode-solutions/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -230,6 +232,7 @@
 | [0372-super-pow](https://github.com/Satyam93186/leetcode-solutions/tree/main/0372-super-pow/) | Medium |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Satyam93186/leetcode-solutions/tree/main/0375-guess-number-higher-or-lower-ii/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/Satyam93186/leetcode-solutions/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+| [0384-shuffle-an-array](https://github.com/Satyam93186/leetcode-solutions/tree/main/0384-shuffle-an-array/) | Medium |
 | [0396-rotate-function](https://github.com/Satyam93186/leetcode-solutions/tree/main/0396-rotate-function/) | Medium |
 | [0788-rotated-digits](https://github.com/Satyam93186/leetcode-solutions/tree/main/0788-rotated-digits/) | Medium |
 | [1840-maximum-building-height](https://github.com/Satyam93186/leetcode-solutions/tree/main/1840-maximum-building-height/) | Hard |
@@ -303,6 +306,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Satyam93186/leetcode-solutions/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+| [0384-shuffle-an-array](https://github.com/Satyam93186/leetcode-solutions/tree/main/0384-shuffle-an-array/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
