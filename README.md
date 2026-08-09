@@ -167,6 +167,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Satyam93186/leetcode-solutions/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0354-russian-doll-envelopes](https://github.com/Satyam93186/leetcode-solutions/tree/master/0354-russian-doll-envelopes) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Satyam93186/leetcode-solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Satyam93186/leetcode-solutions/tree/main/0375-guess-number-higher-or-lower-ii/) | Medium |
@@ -226,6 +227,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Satyam93186/leetcode-solutions/tree/main/0048-rotate-image/) | Medium |
+| [0096-unique-binary-search-trees](https://github.com/Satyam93186/leetcode-solutions/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0357-count-numbers-with-unique-digits](https://github.com/Satyam93186/leetcode-solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0367-valid-perfect-square](https://github.com/Satyam93186/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/Satyam93186/leetcode-solutions/tree/main/0371-sum-of-two-integers/) | Medium |
@@ -364,4 +366,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Satyam93186/leetcode-solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Satyam93186/leetcode-solutions/tree/main/0096-unique-binary-search-trees/) | Medium |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Satyam93186/leetcode-solutions/tree/main/0096-unique-binary-search-trees/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Satyam93186/leetcode-solutions/tree/main/0096-unique-binary-search-trees/) | Medium |
 <!---LeetCode Topics End-->
