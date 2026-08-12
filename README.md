@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Satyam93186/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
+| [0037-sudoku-solver](https://github.com/Satyam93186/leetcode-solutions/tree/main/0037-sudoku-solver/) | Hard |
 | [0355-design-twitter](https://github.com/Satyam93186/leetcode-solutions/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Satyam93186/leetcode-solutions/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0389-find-the-difference](https://github.com/Satyam93186/leetcode-solutions/tree/master/0389-find-the-difference) |
@@ -68,6 +69,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Satyam93186/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
+| [0037-sudoku-solver](https://github.com/Satyam93186/leetcode-solutions/tree/main/0037-sudoku-solver/) | Hard |
 | [0048-rotate-image](https://github.com/Satyam93186/leetcode-solutions/tree/main/0048-rotate-image/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Satyam93186/leetcode-solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Satyam93186/leetcode-solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -133,6 +135,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/Satyam93186/leetcode-solutions/tree/main/0037-sudoku-solver/) | Hard |
 | [0048-rotate-image](https://github.com/Satyam93186/leetcode-solutions/tree/main/0048-rotate-image/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Satyam93186/leetcode-solutions/tree/main/1260-shift-2d-grid/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Satyam93186/leetcode-solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -248,6 +251,7 @@
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/Satyam93186/leetcode-solutions/tree/main/0037-sudoku-solver/) | Hard |
 | [0095-unique-binary-search-trees-ii](https://github.com/Satyam93186/leetcode-solutions/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0357-count-numbers-with-unique-digits](https://github.com/Satyam93186/leetcode-solutions/tree/master/0357-count-numbers-with-unique-digits) |
 ## Enumeration
@@ -383,4 +387,12 @@
 | ------- | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Satyam93186/leetcode-solutions/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/Satyam93186/leetcode-solutions/tree/main/0096-unique-binary-search-trees/) | Medium |
+## Algorithm X
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0037-sudoku-solver](https://github.com/Satyam93186/leetcode-solutions/tree/main/0037-sudoku-solver/) | Hard |
+## Dancing Links
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0037-sudoku-solver](https://github.com/Satyam93186/leetcode-solutions/tree/main/0037-sudoku-solver/) | Hard |
 <!---LeetCode Topics End-->
