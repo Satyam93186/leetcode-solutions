@@ -26,6 +26,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0038-count-and-say](https://github.com/Satyam93186/leetcode-solutions/tree/main/0038-count-and-say/) | Medium |
+| [0065-valid-number](https://github.com/Satyam93186/leetcode-solutions/tree/main/0065-valid-number/) | Hard |
 | [0071-simplify-path](https://github.com/Satyam93186/leetcode-solutions/tree/main/0071-simplify-path/) | Medium |
 | [0385-mini-parser](https://github.com/Satyam93186/leetcode-solutions/tree/main/0385-mini-parser/) | Medium |
 | [0389-find-the-difference](https://github.com/Satyam93186/leetcode-solutions/tree/master/0389-find-the-difference) |
