@@ -328,6 +328,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Satyam93186/leetcode-solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0098-validate-binary-search-tree](https://github.com/Satyam93186/leetcode-solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0385-mini-parser](https://github.com/Satyam93186/leetcode-solutions/tree/main/0385-mini-parser/) | Medium |
 | [1306-jump-game-iii](https://github.com/Satyam93186/leetcode-solutions/tree/main/1306-jump-game-iii/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Satyam93186/leetcode-solutions/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
@@ -388,17 +389,20 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Satyam93186/leetcode-solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0095-unique-binary-search-trees-ii](https://github.com/Satyam93186/leetcode-solutions/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/Satyam93186/leetcode-solutions/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0098-validate-binary-search-tree](https://github.com/Satyam93186/leetcode-solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Satyam93186/leetcode-solutions/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/Satyam93186/leetcode-solutions/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0098-validate-binary-search-tree](https://github.com/Satyam93186/leetcode-solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Satyam93186/leetcode-solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0095-unique-binary-search-trees-ii](https://github.com/Satyam93186/leetcode-solutions/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/Satyam93186/leetcode-solutions/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0098-validate-binary-search-tree](https://github.com/Satyam93186/leetcode-solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
 ## Algorithm X
 | Problem Name | Difficulty |
 | ------- | ------- |
