@@ -440,4 +440,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/Satyam93186/leetcode-solutions/tree/main/0175-combine-two-tables/) | Easy |
+| [0177-nth-highest-salary](https://github.com/Satyam93186/leetcode-solutions/tree/main/0177-nth-highest-salary/) | Medium |
 <!---LeetCode Topics End-->
