@@ -30,6 +30,7 @@
 | [0065-valid-number](https://github.com/Satyam93186/leetcode-solutions/tree/main/0065-valid-number/) | Hard |
 | [0071-simplify-path](https://github.com/Satyam93186/leetcode-solutions/tree/main/0071-simplify-path/) | Medium |
 | [0097-interleaving-string](https://github.com/Satyam93186/leetcode-solutions/tree/main/0097-interleaving-string/) | Medium |
+| [0179-largest-number](https://github.com/Satyam93186/leetcode-solutions/tree/main/0179-largest-number/) | Medium |
 | [0385-mini-parser](https://github.com/Satyam93186/leetcode-solutions/tree/main/0385-mini-parser/) | Medium |
 | [0389-find-the-difference](https://github.com/Satyam93186/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Satyam93186/leetcode-solutions/tree/main/0409-longest-palindrome/) | Easy |
@@ -55,6 +56,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0179-largest-number](https://github.com/Satyam93186/leetcode-solutions/tree/main/0179-largest-number/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Satyam93186/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0354-russian-doll-envelopes](https://github.com/Satyam93186/leetcode-solutions/tree/master/0354-russian-doll-envelopes) |
 | [0389-find-the-difference](https://github.com/Satyam93186/leetcode-solutions/tree/master/0389-find-the-difference) |
@@ -81,6 +83,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/Satyam93186/leetcode-solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Satyam93186/leetcode-solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Satyam93186/leetcode-solutions/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
+| [0179-largest-number](https://github.com/Satyam93186/leetcode-solutions/tree/main/0179-largest-number/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Satyam93186/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0354-russian-doll-envelopes](https://github.com/Satyam93186/leetcode-solutions/tree/master/0354-russian-doll-envelopes) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Satyam93186/leetcode-solutions/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
@@ -301,6 +304,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0179-largest-number](https://github.com/Satyam93186/leetcode-solutions/tree/main/0179-largest-number/) | Medium |
 | [0409-longest-palindrome](https://github.com/Satyam93186/leetcode-solutions/tree/main/0409-longest-palindrome/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Satyam93186/leetcode-solutions/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2126-destroying-asteroids](https://github.com/Satyam93186/leetcode-solutions/tree/main/2126-destroying-asteroids/) | Medium |
