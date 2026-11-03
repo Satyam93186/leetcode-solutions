@@ -170,6 +170,7 @@
 | [0354-russian-doll-envelopes](https://github.com/Satyam93186/leetcode-solutions/tree/master/0354-russian-doll-envelopes) |
 | [0367-valid-perfect-square](https://github.com/Satyam93186/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Satyam93186/leetcode-solutions/tree/main/0374-guess-number-higher-or-lower/) | Easy |
+| [0400-nth-digit](https://github.com/Satyam93186/leetcode-solutions/tree/main/0400-nth-digit/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Satyam93186/leetcode-solutions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2540-minimum-common-value](https://github.com/Satyam93186/leetcode-solutions/tree/main/2540-minimum-common-value/) | Easy |
 | [3161-block-placement-queries](https://github.com/Satyam93186/leetcode-solutions/tree/main/3161-block-placement-queries/) | Hard |
@@ -258,6 +259,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/Satyam93186/leetcode-solutions/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0384-shuffle-an-array](https://github.com/Satyam93186/leetcode-solutions/tree/main/0384-shuffle-an-array/) | Medium |
 | [0396-rotate-function](https://github.com/Satyam93186/leetcode-solutions/tree/main/0396-rotate-function/) | Medium |
+| [0400-nth-digit](https://github.com/Satyam93186/leetcode-solutions/tree/main/0400-nth-digit/) | Medium |
 | [0788-rotated-digits](https://github.com/Satyam93186/leetcode-solutions/tree/main/0788-rotated-digits/) | Medium |
 | [1840-maximum-building-height](https://github.com/Satyam93186/leetcode-solutions/tree/main/1840-maximum-building-height/) | Hard |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Satyam93186/leetcode-solutions/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
